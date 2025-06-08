@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PDP",
+    "PPP"
+  ],
+  "key": {
+    "P": "minecraft:phantom_membrane",
+    "D": "minecraft:diamond_chestplate"
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  },
+  "show_notification": true
+}

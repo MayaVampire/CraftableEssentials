@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#*#",
+    "*#*",
+    "#*#"
+  ],
+  "key": {
+    "#": "minecraft:flint",
+    "*": [
+      "minecraft:cobblestone"
+    ]
+  },
+  "result": {
+    "id": "minecraft:gunpowder",
+    "count": 10
+  },
+  "show_notification": true
+}

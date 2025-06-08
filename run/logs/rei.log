@@ -1,0 +1,37 @@
+[21:02:27] [modloading-worker-0/INFO] ========================================
+[21:02:27] [modloading-worker-0/INFO] Minecraft: 1.21.5
+[21:02:27] [modloading-worker-0/INFO] Side: client
+[21:02:27] [modloading-worker-0/INFO] Development: true
+[21:02:28] [modloading-worker-0/INFO] Version: 19.0.806
+[21:02:28] [modloading-worker-0/INFO] Loader:
+[21:02:28] [modloading-worker-0/INFO] - Forge: null
+[21:02:28] [modloading-worker-0/INFO] Dependencies:
+[21:02:28] [modloading-worker-0/INFO] - Cloth Config: 18.0.145
+[21:02:28] [modloading-worker-0/INFO] - Architectury: 16.1.4
+[21:02:28] [modloading-worker-0/INFO] Mixin: 0.8.7
+[21:02:28] [modloading-worker-0/INFO] OS: Windows 11 10.0 (amd64)
+[21:02:28] [modloading-worker-0/INFO] Java: 21.0.5 (Eclipse Adoptium)
+[21:02:28] [modloading-worker-0/INFO] ========================================
+[21:02:28] [modloading-worker-0/INFO] Mods:
+[21:02:28] [modloading-worker-0/INFO] - architectury: 16.1.4
+[21:02:28] [modloading-worker-0/INFO] - cloth_config: 18.0.145
+[21:02:28] [modloading-worker-0/INFO] - craftable_essentials: 1.0.01
+[21:02:28] [modloading-worker-0/INFO] - minecraft: 1.21.5
+[21:02:28] [modloading-worker-0/INFO] - neoforge: 21.5.44-beta
+[21:02:28] [modloading-worker-0/INFO] - roughlyenoughitems: 19.0.806
+[21:02:28] [modloading-worker-0/INFO] ========================================
+[21:02:28] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:search]: INSTANCE
+[21:02:28] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:manual]: INSTANCE
+[21:02:28] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:basic]: INSTANCE
+[21:02:29] [modloading-worker-0/INFO] [REI] Config loaded
+[21:02:29] [modloading-worker-0/DEBUG] [REI] Config saved
+[21:02:29] [modloading-worker-0/DEBUG] [REI] Config saved
+[21:02:29] [modloading-worker-0/DEBUG] [REI] Config saved
+[21:02:30] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REICommonPlugin
+[21:02:30] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[21:02:30] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIClientPlugin
+[21:02:30] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[21:02:30] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:hidden_from_recipe_viewers]: INSTANCE
+[21:02:30] [modloading-worker-0/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[21:03:36] [Render thread/DEBUG] [REI] Player quit, clearing reload tasks!
+[21:03:36] [Render thread/DEBUG] [REI] Did not fulfill the request of termination of REI reload tasks because there are no uninterrupted running tasks. This is not an error.

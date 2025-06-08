@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PLP",
+    "PLP",
+    "PLP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "L": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:phantom_membrane",
+    "count": 5
+  },
+  "show_notification": true
+}

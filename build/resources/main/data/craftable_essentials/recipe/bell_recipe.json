@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "SgS",
+    "SgS"
+  ],
+  "key": {
+    "#": "#minecraft:planks",
+    "S": "minecraft:stone",
+    "g": [
+      "minecraft:gold_ingot"
+    ]
+  },
+  "result": {
+    "id": "minecraft:bell",
+    "count": 10
+  },
+  "show_notification": true
+}

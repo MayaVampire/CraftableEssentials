@@ -1,0 +1,6 @@
+/recipe give Dev *
+/recipe give Dev craftable_essentials:gunpowder_recipe
+/recipe give Dev minecraft:leather
+/recipe give @a *
+/reload
+/recipe give @a minecraft:leather

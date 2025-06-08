@@ -1,0 +1,27 @@
+# Main Class
+cpw.mods.bootstraplauncher.BootstrapLauncher
+
+# NeoForge Run-Type Program Arguments
+--launchTarget
+neoforgeclientdatadev
+--assetIndex
+24
+--assetsDir
+C:\\Users\\Mayaj\\.gradle\\caches\\neoformruntime\\assets
+--fml.fmlVersion
+7.0.10
+--fml.mcVersion
+1.21.5
+--fml.neoForgeVersion
+21.5.44-beta
+--fml.neoFormVersion
+20250325.162830
+
+# User Supplied Program Arguments
+--mod
+craftable_essentials
+--all
+--output
+"C:\\Mods Forge\\Craftable Essentials\\src\\generated\\resources"
+--existing
+"C:\\Mods Forge\\Craftable Essentials\\src\\main\\resources"

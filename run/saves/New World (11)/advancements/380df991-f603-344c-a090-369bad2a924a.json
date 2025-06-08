@@ -1,0 +1,27 @@
+{
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_the_recipe": "2025-04-28 20:02:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-28 20:01:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-04-28 20:01:09 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-28 20:02:14 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

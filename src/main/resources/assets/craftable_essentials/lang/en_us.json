@@ -1,0 +1,5 @@
+{
+  "itemGroup.craftable_essentials": "Example Mod Tab",
+  "block.craftable_essentials.example_block": "Example Block",
+  "item.craftable_essentials.example_item": "Example Item"
+}
